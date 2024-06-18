@@ -1,0 +1,30 @@
+[33mcommit d8cc5f0f72e9d9614fbcf3cfc36ef87505b718e7[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;32mminha-nova-branch[m[33m)[m
+Merge: 02447f6 dddc3f7
+Author: Viviane <vivianevida308@gmail.com>
+Date:   Thu Jun 13 21:06:55 2024 -0300
+
+    Merge branch 'main' of https://github.com/VivianeVida/Proz
+
+[33mcommit 02447f6ec46e8f5c609acff5ab89cac66b3a232e[m
+Author: Viviane <vivianevida308@gmail.com>
+Date:   Thu Jun 13 21:05:34 2024 -0300
+
+    Mensagem aqui
+
+[33mcommit dddc3f7ea90ea9ed8912cf65235dc21073dcdceb[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: Viviane Vida <67081266+VivianeVida@users.noreply.github.com>
+Date:   Thu Jun 13 20:29:34 2024 -0300
+
+    Update README.md
+
+[33mcommit 798fb9e95bc83783af0ea59fccad3002dfafe104[m
+Author: Viviane Vida <67081266+VivianeVida@users.noreply.github.com>
+Date:   Thu Jun 13 20:28:27 2024 -0300
+
+    Update README.md
+
+[33mcommit 6782f1775a9d7f4d3ce671c92d7c4e17128b3923[m[33m ([m[1;32mnome-da-nova-branch[m[33m)[m
+Author: Viviane <vivianevida308@gmail.com>
+Date:   Thu Jun 13 20:25:23 2024 -0300
+
+    first commit
