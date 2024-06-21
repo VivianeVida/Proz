@@ -1,2 +1,0 @@
-Essa é a nossa primeira aula de git
-Alteração de 18/06/2024 
